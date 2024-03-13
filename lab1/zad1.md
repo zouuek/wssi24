@@ -1,15 +1,4 @@
-
-• wypełnianie deklaracji PIT,
-• streszczanie tekstu,
-• tłumaczenie tekstu,
-• klasyfikacja tekstu do kategorii tematycznych,
-• odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
-• układanie rozkładu jazdy transportu miejskiego,
-• programowanie (pisanie programów komputerowych),
-• „programowanie” kanałów telewizyjnych,
-• testowanie oprogramowania,
-• komponowanie muzyki,
-• rozwiązywanie układów równań,
-• symboliczne obliczanie pochodnych funkcji,
-• symboliczne całkowanie funkcji,
-• kierowanie samochodem.
+• programowanie (pisanie programów komputerowych), - zależy jak skomplikowanych (chat gpt nie napisze jakichs mega skomplikowanych obliczen)
+• „programowanie” kanałów telewizyjnych,   - nie do konca wiem co to znaczy aczkowliek wydaje mi sie ze w dzisiejszych czasach SI podoła temmu zadaniu
+• testowanie oprogramowania, - zależy jak skomplikowanego i ogolnie jakiego
+• komponowanie muzyki, - sztuczna inteleigencja jest w tym kiepska
