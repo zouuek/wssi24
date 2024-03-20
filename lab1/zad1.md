@@ -10,8 +10,8 @@ Które z następujących zadań wymagają w Twojej opinii inteligencji od człow
 • testowanie oprogramowania, - ai software testing jest co raz bardziej rozwijane 
 • komponowanie muzyki, - choć sztuczna intelifgencja obecnie jest w stanie skomponować jakis prosty utwor, to nigdy nie bedzie to porownywalne do tego co czlowiek jest w stanie skomponowac
 • rozwiązywanie układów równań, - system of equazion solver z wolfram alpha
-• symboliczne obliczanie pochodnych funkcji, - sztuczna inteligencja jest słaba w matematyke
-• symboliczne całkowanie funkcji, - sztuczna inteligencja jest słaba w matematyke
+• symboliczne obliczanie pochodnych funkcji, - sztuczna inteligencja jest słaba w matematyke, istnieje wolfram ktory to oblicza
+• symboliczne całkowanie funkcji, - sztuczna inteligencja jest słaba w matematyke, ale istnieje wolfram ktory to oblicza
 • kierowanie samochodem. - wymaga od człowieka czasami szybkiej reakcji, choć co raz bardziej jest to autoamtyzowane
 
 
