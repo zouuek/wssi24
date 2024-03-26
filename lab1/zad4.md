@@ -37,24 +37,41 @@ Jak mogę Ci dzisiaj pomóc?
 - danych zakupów, pa!
 
   _Billie opuścił rozmowę_
+  
   _Zakończono czat_
 
-1.
+# 1.
 bot - asystent w przeciwieństwie do tego udającego człowieka nie chce rozmawiać na tematy na które nie został przygotowany, bot będący asystentem informuje, że czatujemy z botem w przeciwieństwie do bota przygotowanego na test turinga - udającego człowieka
 
-2.
-a)
-clever
-Opowiedz mi żart ;).
+# 2.
+## a)
+### CLEVER BOT
 
-Szła biedronka która nie ma ogonka.
-ikea
-opowiedz mi żart
-Czy ktoś chce usłyszeć mój żart z IKEA? *Przepraszam, musicie poskładać go sami.
-b)
-Podaj jakiś cytat einsteina.
+- Opowiedz mi żart ;).
 
-Żart.
+- Szła biedronka która nie ma ogonka.
+  
+### IKEA BOT
+
+-opowiedz mi żart
+
+-Czy ktoś chce usłyszeć mój żart z IKEA? *Przepraszam, musicie poskładać go sami.
+
+## b)
+### CLEVER BOT
+
+- Podaj jakiś cytat einsteina.
+
+- Żart.
+
+### IKEA BOT
+
+- podaj jakiś cytat znanej osoby
+  
+- Znalazłem kilka informacji na ten temat w centrum pomocy IKEA.
+IKEA dostępna dla wszystkich!
+W każdym sklepie IKEA możesz zaplanować wygodne i bezpieczne zakupy. W sklepach znajdziesz windy i ruchome schody, które ułatwią Ci poruszanie się po jego terenie. Dodatkowo, dla osób o ograniczonej mobilności, dostępne są wózki inwalidzkie. Na terenie sklepu znajdziesz wiele map i drogowskazów, które zaprowadzą Cię do właściwego miejsca. Nasi pracownicy z radością udzielą Ci wskazówek, gdziekolwiek się znajdziesz. Więcej informacji o udogodnieniach w poszczególnych sklepach IKEA w Polsce znajdziesz tutaj
+Czy ta informacja była pomocna?
 
 Co mówiłem 3 wiadomości temu?
 
@@ -65,13 +82,7 @@ Chętnie porozmawiam z Tobą o usługach, zwrotach zakupów i procesie reklamacj
 Czy jest coś jeszcze, w czym mogę ci pomóc?
 Tak
 Jak mogę Ci dzisiaj pomóc?
-podaj jakiś cytat znanej osoby
-Znalazłem kilka informacji na ten temat w centrum pomocy IKEA.
-IKEA dostępna dla wszystkich!
 
-W każdym sklepie IKEA możesz zaplanować wygodne i bezpieczne zakupy. W sklepach znajdziesz windy i ruchome schody, które ułatwią Ci poruszanie się po jego terenie. Dodatkowo, dla osób o ograniczonej mobilności, dostępne są wózki inwalidzkie. Na terenie sklepu znajdziesz wiele map i drogowskazów, które zaprowadzą Cię do właściwego miejsca. Nasi pracownicy z radością udzielą Ci wskazówek, gdziekolwiek się znajdziesz. Więcej informacji o udogodnieniach w poszczególnych sklepach IKEA w Polsce znajdziesz tutaj
-
-Czy ta informacja była pomocna?
 
 c)
 Kupić.
