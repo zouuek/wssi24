@@ -1,22 +1,22 @@
 ## OPOWIADANIE ŻARTÓW
 # CLEVER BOT
--Hej.
+- Hej.
 
--Heej jak się nazywasz?
+- Heej jak się nazywasz?
 
--Nie powiem.
+- Nie powiem.
 
--Ile masz lat???
+- Ile masz lat???
 
--20 ;).
+- 20 ;).
 
--Dlatego jestem ciekawa.
+- Dlatego jestem ciekawa.
 
--Ja tez jestem ciekawy heeh ;)).
+- Ja tez jestem ciekawy heeh ;)).
 
--A czego.
+- A czego.
 
--Co tam u ciebie:).
+- Co tam u ciebie:).
 
 -KOCHAM CIĘ wyjdziesz za mnie?💖😘😍💗.
 
