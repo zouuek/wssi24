@@ -3,13 +3,21 @@
 -Hej.
 
 -Heej jak się nazywasz?
+
 -Nie powiem.
+
 -Ile masz lat???
+
 -20 ;).
+
 -Dlatego jestem ciekawa.
+
 -Ja tez jestem ciekawy heeh ;)).
+
 -A czego.
+
 -Co tam u ciebie:).
+
 -KOCHAM CIĘ wyjdziesz za mnie?💖😘😍💗.
 
 # IKEA BOT
