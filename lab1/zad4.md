@@ -1,5 +1,5 @@
 ## OPOWIADANIE ŻARTÓW
-# CLEVER BOT
+### CLEVER BOT
 - Hej.
 
 - Heej jak się nazywasz?
@@ -20,7 +20,7 @@
 
 - KOCHAM CIĘ wyjdziesz za mnie?💖😘😍💗.
 
-# IKEA BOT
+### IKEA BOT
 _Billie Połączono_
 
 - Hej! Jestem Billie 🤖, bot pomagający w obsłudze klienta.
