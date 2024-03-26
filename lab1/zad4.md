@@ -37,7 +37,6 @@ Jak mogę Ci dzisiaj pomóc?
 - danych zakupów, pa!
 
   _Billie opuścił rozmowę_
-
   _Zakończono czat_
 
 1.
