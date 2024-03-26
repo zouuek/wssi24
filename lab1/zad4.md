@@ -1,6 +1,6 @@
-##OPOWIADANIE ŻARTÓW
-#CLEVER BOT
-`-Hej.
+## OPOWIADANIE ŻARTÓW
+# CLEVER BOT
+-Hej.
 -Heej jak się nazywasz?
 -Nie powiem.
 -Ile masz lat???
@@ -9,9 +9,9 @@
 -Ja tez jestem ciekawy heeh ;)).
 -A czego.
 -Co tam u ciebie:).
--KOCHAM CIĘ wyjdziesz za mnie?💖😘😍💗.`
+-KOCHAM CIĘ wyjdziesz za mnie?💖😘😍💗.
 
-#IKEA BOT
+# IKEA BOT
 `_Billie Połączono_
 -Hej! Jestem Billie 🤖, bot pomagający w obsłudze klienta.
 Odkryj funkcjonalne meble i akcesoria w nowych niższych cenach - sprawdź ofertę klikając tutaj!
