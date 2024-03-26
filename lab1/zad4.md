@@ -1,6 +1,7 @@
 ## OPOWIADANIE ŻARTÓW
 # CLEVER BOT
 -Hej.
+
 -Heej jak się nazywasz?
 -Nie powiem.
 -Ile masz lat???
