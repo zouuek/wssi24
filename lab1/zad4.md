@@ -187,7 +187,8 @@ Czy jest coś jeszcze, w czym mogę ci pomóc?
 
 ikea podtrzymuje to że chce mi pomóc w czyms zwiazanym z ikea, clever bot pisze jakies losowe rzeczy non stop. oba boty nie pamietaja dluzszych watkow
 
-3.
+# 3.
+
 - clever bot czasem opowie zart jakis, ikea opowie zart zwiazany z ikea
 
 - cytatu zaden nie przytoczy
@@ -206,7 +207,7 @@ ikea podtrzymuje to że chce mi pomóc w czyms zwiazanym z ikea, clever bot pisz
 
 - boty maja krotka pAMIEC BO CLEVER BOT PISZE LOSOWE RZECZY A ""ikea" "bot"" tez MA KROTKA PAMIEC ALE CZASSEEm PODTRZYMA WATEK PRZEZ CHWILE ZEBY MI pomoc w obsludze mnie jako klienta: )
 
-  # 4.
+# 4.
 
 ### CLEVER BOT 
 
