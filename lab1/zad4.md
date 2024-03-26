@@ -18,20 +18,27 @@
 
 - Co tam u ciebie:).
 
--KOCHAM CIĘ wyjdziesz za mnie?💖😘😍💗.
+- KOCHAM CIĘ wyjdziesz za mnie?💖😘😍💗.
 
 # IKEA BOT
-`_Billie Połączono_
--Hej! Jestem Billie 🤖, bot pomagający w obsłudze klienta.
+_Billie Połączono_
+
+- Hej! Jestem Billie 🤖, bot pomagający w obsłudze klienta.
 Odkryj funkcjonalne meble i akcesoria w nowych niższych cenach - sprawdź ofertę klikając tutaj!
 Najlepiej pomogę Ci w: sprawdzeniu statusu Twojego zamówienia, podaniu godzin otwarcia sklepów IKEA oraz zmianie terminu dostawy.
 Jak mogę Ci dzisiaj pomóc?
--hejka billie ;)
--Dzień dobry! Co mogę dziś dla Ciebie zrobić?
--pogadamy? ;))
--danych zakupów, pa!
+
+- hejka billie ;)
+
+- Dzień dobry! Co mogę dziś dla Ciebie zrobić?
+
+- pogadamy? ;))
+
+- danych zakupów, pa!
+
 _Billie opuścił rozmowę_
-_Zakończono czat_`
+
+_Zakończono czat_
 
 1.
 bot - asystent w przeciwieństwie do tego udającego człowieka nie chce rozmawiać na tematy na które nie został przygotowany, bot będący asystentem informuje, że czatujemy z botem w przeciwieństwie do bota przygotowanego na test turinga - udającego człowieka
