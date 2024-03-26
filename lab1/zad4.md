@@ -1,40 +1,34 @@
-CLEVER BOT
-Hej.
+##OPOWIADANIE ŻARTÓW
+#CLEVER BOT
+`-Hej.
+-Heej jak się nazywasz?
+-Nie powiem.
+-Ile masz lat???
+-20 ;).
+-Dlatego jestem ciekawa.
+-Ja tez jestem ciekawy heeh ;)).
+-A czego.
+-Co tam u ciebie:).
+-KOCHAM CIĘ wyjdziesz za mnie?💖😘😍💗.`
 
-Heej jak się nazywasz?
-
-Nie powiem.
-
-Ile masz lat???
-
-20 ;).
-
-Dlatego jestem ciekawa.
-
-Ja tez jestem ciekawy heeh ;)).
-
-A czego.
-
-Co tam u ciebie:).
-
-KOCHAM CIĘ wyjdziesz za mnie?💖😘😍💗.
-
-IKEA BOT
-Billie Połączono
-Hej! Jestem Billie 🤖, bot pomagający w obsłudze klienta.
+#IKEA BOT
+`_Billie Połączono_
+-Hej! Jestem Billie 🤖, bot pomagający w obsłudze klienta.
 Odkryj funkcjonalne meble i akcesoria w nowych niższych cenach - sprawdź ofertę klikając tutaj!
-
 Najlepiej pomogę Ci w: sprawdzeniu statusu Twojego zamówienia, podaniu godzin otwarcia sklepów IKEA oraz zmianie terminu dostawy.
 Jak mogę Ci dzisiaj pomóc?
-hejka billie ;)
-Dzień dobry! Co mogę dziś dla Ciebie zrobić?
-pogadamy? ;))
-Udanych zakupów, pa!
-Billie opuścił rozmowę
-Zakończono czat
+-hejka billie ;)
+-Dzień dobry! Co mogę dziś dla Ciebie zrobić?
+-pogadamy? ;))
+-danych zakupów, pa!
+_Billie opuścił rozmowę_
+_Zakończono czat_`
+
 1.
-bot - asystent w przeciwieństwie do tego udającego człowieka nie chce rozmawiać na tematy na które nie został przygotowany
-2.a)
+bot - asystent w przeciwieństwie do tego udającego człowieka nie chce rozmawiać na tematy na które nie został przygotowany, bot będący asystentem informuje, że czatujemy z botem w przeciwieństwie do bota przygotowanego na test turinga - udającego człowieka
+
+2.
+a)
 clever
 Opowiedz mi żart ;).
 
