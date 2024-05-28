@@ -25,14 +25,14 @@ class NeuralNetwork:
         self.hidden_layer2 = [Neuron(hidden_sizes[0]) for _ in range(hidden_sizes[1])]
         self.output_neuron = Neuron(hidden_sizes[1])
 
-    def forward(self, input_data):
+    def przekaz(self, input_data):
         hidden1_outputs = [neuron(input_data) for neuron in self.hidden_layer1]
         hidden2_outputs = [neuron(hidden1_outputs) for neuron in self.hidden_layer2]
         output = self.output_neuron(hidden2_outputs)
         return output
 
 
-def visualize_network():
+def wyswietl():
     G = nx.DiGraph()
 
     input_nodes = ['Input 1', 'Input 2', 'Input 3']
@@ -96,4 +96,4 @@ output_size = 1
 
 network = NeuralNetwork(input_size, hidden_sizes, output_size)
 print("UWAGA wyswietlam")
-visualize_network()
+wyswietl()
